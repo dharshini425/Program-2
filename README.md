@@ -35,12 +35,11 @@ int main()
 return 0;
 }
 ```
-OU<img width="835" height="267" alt="502990642-772b86ac-6423-40d0-8886-79dc6eb5ae9d" src="https://github.com/user-attachments/assets/bbdbe517-2211-493b-988c-09adc266cef1" />
-TPUT:
-
+OUTPUT:
 
  
 RESULT:
+
 Thus the program to print the string "LINUX" n number of times has been executed successfully
 
 
